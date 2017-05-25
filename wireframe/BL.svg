@@ -178,9 +178,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.64"
-     inkscape:cx="3231.5818"
-     inkscape:cy="867.99013"
+     inkscape:zoom="0.90509668"
+     inkscape:cx="2366.5349"
+     inkscape:cy="155.82635"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -198,7 +198,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1599,14 +1599,14 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:31.95735359px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="2231.2847"
-       y="942.35449"
+       x="1851.0643"
+       y="1150.0671"
        id="text5172"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan5174"
-         x="2231.2847"
-         y="942.35449"
+         x="1851.0643"
+         y="1150.0671"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Dosis;-inkscape-font-specification:Dosis;fill:#333333">Sebelum terpilih</tspan></text>
     <text
        sodipodi:linespacing="125%"
@@ -1750,7 +1750,7 @@
     </g>
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 2196.875,933.6122 26.5625,0"
+       d="m 1950.1563,1087.2766 0,26.5625"
        id="path5256"
        inkscape:connector-curvature="0" />
     <g
@@ -4425,7 +4425,7 @@
            height="108.59375"
            x="1096.875"
            y="2802.3623" /></flowRegion><flowPara
-         id="flowPara5748"></flowPara></flowRoot>    <g
+         id="flowPara5748" /></flowRoot>    <g
        id="g5863"
        transform="translate(48.108459,-34.375)"
        inkscape:export-xdpi="90"
@@ -6291,5 +6291,202 @@
          id="g7428"
          style="fill:#ffffff" />
     </g>
+    <text
+       sodipodi:linespacing="125%"
+       id="text10622"
+       y="1037.0934"
+       x="2383.5786"
+       style="font-style:normal;font-weight:normal;font-size:26.53153419px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Dosis;-inkscape-font-specification:Dosis;fill:#ffffff"
+         y="1037.0934"
+         x="2383.5786"
+         id="tspan10624"
+         sodipodi:role="line">BID LEBIH TINGGI</tspan></text>
+    <rect
+       ry="4.1593595"
+       y="837.64026"
+       x="2276.0464"
+       height="227.60001"
+       width="388.90872"
+       id="rect10626"
+       style="fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       ry="4.3612671"
+       y="946.60144"
+       x="2470.8413"
+       height="41.432037"
+       width="170.28323"
+       id="rect10628"
+       style="fill:#74b94e;fill-opacity:1;stroke:#74b94e;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       transform="scale(1.2591458,0.7941892)"
+       sodipodi:linespacing="125%"
+       id="text10630"
+       y="1092.7347"
+       x="2083.4067"
+       style="font-style:normal;font-weight:normal;font-size:27.25060081px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Dosis;-inkscape-font-specification:Dosis;fill:#333333"
+         y="1092.7347"
+         x="2083.4067"
+         id="tspan10632"
+         sodipodi:role="line">X</tspan></text>
+    <rect
+       ry="4.3612671"
+       y="1006.7596"
+       x="2294.2764"
+       height="41.432037"
+       width="354.65823"
+       id="rect10634"
+       style="fill:#74b94e;fill-opacity:1;stroke:none;stroke-width:4.69999981;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text10636"
+       y="1037.173"
+       x="2470.9578"
+       style="font-style:normal;font-weight:normal;font-size:26.53153419px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#ffffff"
+         y="1037.173"
+         x="2470.9578"
+         id="tspan10638"
+         sodipodi:role="line">BIN Rp. 2.000.000,-</tspan></text>
+    <g
+       transform="translate(39.268822,332.65672)"
+       id="g10640">
+      <g
+         id="g10642">
+        <rect
+           style="fill:none;fill-opacity:1;stroke:#666666;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect10644"
+           width="170.28323"
+           height="41.432037"
+           x="2251.5725"
+           y="557.94476"
+           ry="4.3612671" />
+        <text
+           sodipodi:linespacing="125%"
+           id="text10646"
+           y="583.96265"
+           x="2336.1953"
+           style="font-style:normal;font-weight:normal;font-size:26.53153419px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.75px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#4d4d4d"
+             y="583.96265"
+             x="2336.1953"
+             id="tspan10648"
+             sodipodi:role="line">Rp. 260.000,-</tspan></text>
+        <rect
+           ry="4.3612671"
+           y="557.94476"
+           x="2251.5725"
+           height="41.432037"
+           width="170.28323"
+           id="rect10650"
+           style="fill:none;fill-opacity:1;stroke:#666666;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:21.64213181px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="2299.5669"
+       y="865.83789"
+       id="text10652"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan10654"
+         x="2299.5669"
+         y="865.83789"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#333333">Pilih nominal bid yang di inginkan</tspan></text>
+    <g
+       id="g10656"
+       transform="translate(219.26882,332.65672)">
+      <g
+         id="g10658">
+        <rect
+           ry="4.3612671"
+           y="557.94476"
+           x="2251.5725"
+           height="41.432037"
+           width="170.28323"
+           id="rect10660"
+           style="fill:none;fill-opacity:1;stroke:#666666;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:26.53153419px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="2336.1953"
+           y="583.96265"
+           id="text10662"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan10664"
+             x="2336.1953"
+             y="583.96265"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.75px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#4d4d4d">Rp. 270.000,-</tspan></text>
+        <rect
+           style="fill:none;fill-opacity:1;stroke:#666666;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect10666"
+           width="170.28323"
+           height="41.432037"
+           x="2251.5725"
+           y="557.94476"
+           ry="4.3612671" />
+      </g>
+    </g>
+    <text
+       sodipodi:linespacing="125%"
+       id="text10674"
+       y="972.61938"
+       x="2555.4641"
+       style="font-style:normal;font-weight:normal;font-size:26.53153419px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.75px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#ffffff;"
+         y="972.61938"
+         x="2555.4641"
+         id="tspan10676"
+         sodipodi:role="line">Rp. 2.000.000,-</tspan></text>
+    <rect
+       ry="4.3612671"
+       y="946.6015"
+       x="2290.8413"
+       height="41.432037"
+       width="170.28323"
+       id="rect10678"
+       style="fill:none;fill-opacity:1;stroke:#666666;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:26.53153419px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       x="2375.4641"
+       y="972.61932"
+       id="text10680"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan10682"
+         x="2375.4641"
+         y="972.61932"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.75px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#666666;fill-opacity:1;">Rp. 280.000,-</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text10684"
+       y="1150.0671"
+       x="2348.1367"
+       style="font-style:normal;font-weight:normal;font-size:31.95735359px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Dosis;-inkscape-font-specification:Dosis;fill:#333333"
+         y="1150.0671"
+         x="2348.1367"
+         id="tspan10686"
+         sodipodi:role="line">Ketika BIN - Buy it now!</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Dosis;-inkscape-font-specification:Dosis;fill:#333333"
+         y="1190.0138"
+         x="2348.1367"
+         sodipodi:role="line"
+         id="tspan10730">teks berubah jadi BIN</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path10688"
+       d="m 2490.1563,1087.2766 0,26.5625"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
   </g>
 </svg>
